@@ -1,4 +1,7 @@
 # GoodPrefs
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e6ae274a60104fa4b2ac35f9add0a27e)](https://app.codacy.com/app/nouri.softeng/GoodPrefs?utm_source=github.com&utm_medium=referral&utm_content=MrNouri/GoodPrefs&utm_campaign=Badge_Grade_Dashboard)
+
 GoodPrefs is An Android library for easy access to Android Shared preferences<br>
 ## Install library
 * ### Gradle
